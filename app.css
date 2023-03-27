@@ -41,7 +41,7 @@ h3{
 
 /*styling the container class*/
 
-.conatiner{
+.container{
     width: 100vw;
     height:100vw;
     display: flex;
@@ -51,7 +51,7 @@ h3{
 }
 
 /*child of the container*/
-.conatiner >* {
+.container >* {
     width: 100%;
 }
 .flex-column{
@@ -84,6 +84,7 @@ h3{
 .button{
     font-size: 1.8rem;
     width:20rem;
+   
     background-color:azure;
     color:deepskyblue;
     margin-bottom: 1rem;
