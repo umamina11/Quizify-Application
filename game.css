@@ -16,7 +16,7 @@ color:white;
 }
 .choice-text{
     padding: 1.5rem;
-
+    width: 100%;
 }
 
 /**hover effect**/
@@ -27,3 +27,10 @@ color:white;
     transition: transform 150ms;
 }
 
+.correct{
+    background-color: aquamarine;
+
+}
+.incorrect{
+    background-color: red;
+}

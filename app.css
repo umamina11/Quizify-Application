@@ -46,8 +46,10 @@ h3{
     height:100vw;
     display: flex;
     justify-content: center;
+    align-items: center;
     max-width: 80rem;
-    margin:auto;
+    margin:0 auto;
+    padding: 2rem;
 }
 
 /*child of the container*/
